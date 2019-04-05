@@ -1,0 +1,9 @@
+html, body{
+    background: linear-gradient(to bottom right, #C6FFDD, #fbd786, #f7797d);
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    font-family: 'Baloo Chettan', cursive;
+    color: white;
+    font-size: 30pt;
+}
