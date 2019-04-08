@@ -15,3 +15,5 @@ The app will keep track of the following:
 When the player wins, the Wins counter increases by one and the game starts over again (without refreshing the page).
 
 When the player loses, the Losses counter increases by one and the game restarts without a page refresh (just like when the user wins).
+
+Created using dynamically updated HTML and CSS powered by JavaScript code.
