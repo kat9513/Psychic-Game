@@ -1,5 +1,7 @@
 # Psychic-Game
 
+https://kat9513.github.io/Psychic-Game/
+
 The app randomly picks a letter, and the user has to guess which letter the app chose.
 
 The app will keep track of the following:
